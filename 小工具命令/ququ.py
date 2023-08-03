@@ -3,7 +3,6 @@ import os
 import sys
 import json
 
-# UE_PATH = "E:\\Unreal Engine\\UE_4.27" # by yourself
 
 arg1 = sys.argv[1]
 
